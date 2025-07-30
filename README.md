@@ -45,23 +45,6 @@ List of packages:
 - statsmodels
 - scipy
 
-## 📁 Sample Excel Format
-
-- CRD Sheet:
-Treatment	Response
-A	22
-B	25
-
-- RBD Sheet:
-Block	A	B	C
-1	23	21	22
-2	24	20	21
-
-- X̄-R Chart Sheet:
-Sample 1	Sample 2	Sample 3
-20	22	21
-21	24	23
-
 ## 📌 Author
 Jahnvi Naithani
 🔗 [GitHub](https://github.com/Jahnvi-16) | [LinkedIn](www.linkedin.com/in/jahnvi-naithani-5194a5277)
